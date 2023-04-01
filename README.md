@@ -22,4 +22,4 @@ File overview:
 
 * To build the docker container * `docker build -t dlapi .`
 
-* If you're not running on 64-bit linux, instead run `docker buildx build --platform linux/amd64 -t dlapi .`.
+* If you're not running on 64-bit linux, instead run `docker buildx build --platform linux/amd64 -t dlapi .
