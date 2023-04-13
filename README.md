@@ -2,7 +2,7 @@
 
 In this project, I built a translation API using deep learning. Using FastAPI, I created a web server that exposes a `/translate` route and a `/results` route. Clients will post their translation request to the `/translate` route, and get the translation results from `/results`.  The server will use a sqlite database to store the translations. On the backend, I'll use async and a pretrained deep learning language model to run the translation job.
 
-This web server can run translation jobs quickly. This server can easily be extended to translate more languages, or add more options.
+This web server can run translation jobs quickly. This server can easily be extended to translate more languages, or add more options
 
 **Project Steps**
 * Build API routes
