@@ -18,7 +18,7 @@ File overview:
 
 ## Usage
 
-* To run the server locally, run `uvicorn main:app --reload`.
+* To run the server locally, run `uvicorn main:app --reload`
 
 * To build the docker container * `docker build -t dlapi .`
 
