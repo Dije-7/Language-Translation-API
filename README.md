@@ -11,7 +11,7 @@ This web server can run translation jobs quickly. This server can easily be exte
 
 File overview:
 
-* `requirements.txt` - packages you'll need to install.
+* `requirements.txt` - packages you'll need to install
 * `main.py` - defines the web server routes
 * `models.py` - defines database models
 * `tasks.py` - runs our backend tasks, including the translation
